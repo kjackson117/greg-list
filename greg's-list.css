@@ -1,0 +1,53 @@
+.nav-bar{
+	height:50px;
+	background-color: lightgrey;
+	position: fixed;
+	width:100%;
+	padding:10px;
+}
+.icon{
+	font-size: 20px;
+	position: fixed;
+	display: inline-block;
+	font-weight: 800px;
+}
+.search .search-label{
+	display: block;
+	margin-bottom:10px;
+}
+.search .search-field .search-section .search-button {
+	display:inline-block;
+	border:1px solid black;
+	border-radius: 5px;
+}
+.search-section .search-button{
+	width:40px
+	height:30px
+	background-color:white;
+	vertical-align: bottom;
+	padding:2px;
+}
+.pages {
+	font-size: 16px;
+	display:inline-block;
+	margin-top: 30px;
+	padding-top: 10px
+}
+.listings {
+	padding:1;
+}
+.listing {
+	list-style: none;
+	margin-bottom: 30px;
+	padding:1;
+}
+.list-title{
+	font-weight: 750;
+	list-style: none;
+	margin-left: 10px
+	margin-right: 10px;
+}
+.list-date, .list-location{
+	color: grey;
+}
+
